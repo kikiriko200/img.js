@@ -15,6 +15,7 @@
 
 ## CDN
 https://cdn.jsdelivr.net/gh/kikiriko200/img.js/img.js
+
 https://cdn.jsdelivr.net/gh/kikiriko200/img.js/img.min.js
 
 ## ライセンス
