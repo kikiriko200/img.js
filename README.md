@@ -14,6 +14,7 @@
 |名前 |説明 |
 |---|---|
 |`scale` |拡大率(デフォルト:1)|
+|`classname`|クラス名|
 
 ## CDN
 https://cdn.jsdelivr.net/gh/kikiriko200/img.js/img.js

@@ -3,7 +3,8 @@
 //MIT License(https://github.com/kikiriko200/img.js/blob/master/LICENSE)
 var counter = 0; //個別番号
 var scale = 1; // 倍率
-$('.as').each(function(){
+var classname = $('.as'); //クラス名
+classname.each(function(){
 	var height = $(this).parent();
 	height = height.height();
 	var width = $(this).parent();
