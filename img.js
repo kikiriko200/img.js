@@ -16,7 +16,8 @@ classname.each(function(){
 	}
 	$(this).css({ //CSS制御
 		'height': height*scale,
-		'width' : width*scale
+		'width' : width*scale,
+		'object-fit': 'cover'
   });
   counter++;
   console.log('Resize Image#'+counter+'\nwidth:'+width+'px;\nheight:'+height+'px');
